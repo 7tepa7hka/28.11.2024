@@ -1,0 +1,292 @@
+.container {
+  width: 1450px;
+  min-height: 600px;
+  height: 800px;
+  margin: auto;
+  background-image: url("./bgimages.png");
+  background-size: cover;
+  border-radius: 15px;
+}
+
+.img1 {
+  width: 174;
+  height: 18;
+  margin-top: 28px;
+  margin-left: 40px;
+  display: inline-block;
+}
+.img2 {
+  width: 40px;
+  height: 14px;
+  margin-top: 29px;
+  margin-left: 333px;
+  display: inline-block;
+}
+.img3 {
+  width: 128px;
+  height: 14px;
+  margin-top: 29px;
+  margin-left: 40px;
+  display: inline-block;
+}
+.img4 {
+  width: 96px;
+  height: 14px;
+  margin-top: 29px;
+  margin-left: 40px;
+  display: inline-block;
+}
+.but1 {
+  background-color: #9400ff;
+  width: 91px;
+  height: 21px;
+  margin-top: 29px;
+  margin-left: 422px;
+  border-radius: 15px;
+  font-size: 13px;
+  color: white;
+}
+.Custom {
+  color: #fff;
+  font-size: 16px;
+  margin-left: 108px;
+  margin-top: 53px;
+}
+.Awildly {
+  color: #fff;
+  font-size: 16px;
+  margin-left: 108px;
+  font-size: 48px;
+
+  font-family: sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 62px;
+}
+.but2 {
+  background-color: #9400ff;
+  color: white;
+  width: 212px;
+  height: 50px;
+  border-radius: 25px;
+  margin-top: 58px;
+  margin-left: 113px;
+}
+.lol1 {
+  color: white;
+  margin-top: 85px;
+  margin-left: 113px;
+  font-size: 16px;
+}
+.lol2 {
+  color: white;
+  margin-left: 113px;
+  font-size: 16px;
+}
+.lol3 {
+  color: white;
+  margin-left: 113px;
+  font-size: 16px;
+  display: inline-block;
+}
+.lol4 {
+  color: white;
+  margin-left: 113px;
+  font-size: 16px;
+}
+.lol5 {
+  color: white;
+  margin-left: 113px;
+  font-size: 16px;
+}
+.lol6 {
+  color: white;
+  margin-left: 113px;
+  font-size: 16px;
+}
+
+/*  */
+
+.conteiner2 {
+  width: 1350px;
+  height: 1000px;
+  background-color: #000000;
+  margin: auto;
+  border-radius: 15px;
+  padding: 50px;
+}
+.inp2 {
+  width: 500px;
+  height: 377px;
+  color: white;
+  margin-left: 112.75px;
+  margin-bottom: 650px;
+  display: inline-block;
+  vertical-align: middle;
+}
+.kop1 {
+  font-size: 48px;
+}
+.kop2 {
+  font-size: 16px;
+  margin-left: 20px;
+}
+.kop3 {
+  font-size: 13px;
+  background-color: #9400ff;
+  width: 212px;
+  height: 50px;
+  border-radius: 25px;
+}
+.img5 {
+  width: 575px;
+  margin-left: 100px;
+}
+
+/*  */
+
+.conteiner3 {
+  width: 1350px;
+  height: 1200px;
+  background-color: #000000;
+  margin: auto;
+  border-radius: 15px;
+  padding: 50px;
+}
+.kom {
+  color: #fff;
+  font-size: 29px;
+  margin-left: 550px;
+}
+.img6 {
+  width: 1215px;
+  height: 1147px;
+  vertical-align: middle;
+  margin-left: 50px;
+}
+
+/*  */
+
+.conteiner4 {
+  width: 1350px;
+  height: 1000px;
+  background-color: #000000;
+  margin: auto;
+  border-radius: 15px;
+  padding: 50px;
+}
+.kom2 {
+  color: #fff;
+  font-size: 29px;
+  margin-left: 580px;
+}
+.img7 {
+  margin-top: 20px;
+  margin-left: 50px;
+}
+
+/*  */
+
+.minic1 {
+  width: 187px.06;
+  height: 265px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.loi1 {
+  color: #999999;
+  font-size: 15px;
+  margin-top: 44px;
+  margin-left: 190px;
+}
+.loo1 {
+  font-size: 14px;
+  color: #fff;
+  margin-left: 25px;
+}
+
+/*  */
+
+.minic2 {
+  width: 187px.06;
+  height: 683px;
+  display: inline-block;
+  vertical-align: top;
+  justify-content: 50px;
+}
+
+.loi2 {
+  color: #999999;
+  font-size: 15px;
+  margin-top: 44px;
+  margin-left: 190px;
+}
+.loo2 {
+  font-size: 14px;
+  color: #fff;
+  margin-left: 25px;
+}
+
+/*  */
+
+.minic3 {
+  width: 187px.06;
+  height: 463px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.loi3 {
+  color: #999999;
+  font-size: 15px;
+  margin-top: 44px;
+  margin-left: 190px;
+}
+.loo3 {
+  font-size: 14px;
+  color: #fff;
+  margin-left: 25px;
+}
+
+/*  */
+
+.conteiner5 {
+  width: 1350px;
+  height: 700px;
+  background-color: #000000;
+  margin: auto;
+  border-radius: 15px;
+  padding: 50px;
+}
+.inp3 {
+  width: 500px;
+  height: 377px;
+  color: white;
+  margin-top: 200px;
+  margin-left: 212.75px;
+  display: inline-block;
+  vertical-align: middle;
+}
+.kop4 {
+  font-size: 48px;
+}
+.kop5 {
+  font-size: 16px;
+  margin-left: 20px;
+}
+.kop6 {
+  font-size: 13px;
+  background-color: #9400ff;
+  width: 212px;
+  height: 50px;
+  border-radius: 25px;
+}
+.img8 {
+  width: 396px;
+  height: 396px;
+  margin-left: 100px;
+  vertical-align: middle;
+  margin-top: 200px;
+}
